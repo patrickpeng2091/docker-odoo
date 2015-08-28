@@ -1,4 +1,3 @@
-
 #!/bin/sh
 ### In odoo.sh (make sure this file is chmod +x):
 # `/sbin/setuser openerp` runs the given command as the user `openerp`.
