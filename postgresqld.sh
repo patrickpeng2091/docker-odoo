@@ -1,4 +1,3 @@
-
 #!/bin/sh
 ### In postgresd.sh (make sure this file is chmod +x):
 # `/sbin/setuser postgres` runs the given command as the user `postgres`.
