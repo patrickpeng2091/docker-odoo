@@ -4,8 +4,6 @@ Docker container for [Odoo 9][3]
 
 "Odoo is the fastest evolving business software in the world. Odoo has a complete suite of business applications covering all business needs, from Website/Ecommerce down to manufacturing, inventory and accounting, all seamlessly integrated. It is the first time ever a software editor managed to reach such a functional coverage."
 
-note : this to test and learn about the future release of Odoo .. This is pre-release and not recomended for deployment please used Odoo 8 (quantumobject/docker-odoo) when oddo 9 is finally release this container will replace the odoo 8 container. 
-
 ## Install dependencies
 
   - [Docker][2]
