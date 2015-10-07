@@ -20,6 +20,18 @@ To install docker in Ubuntu 14.04 use the commands:
 To run container use the command below:
 
     $ docker run -d -p 8069 -p 8070 quantumobject/docker-odoo
+
+## Run different version of Odoo
+
+When you run quantumobject/docker-odoo it will used the last release odoo(at this moment odoo 9) but you can specified by using tags.
+
+to run Odoo 8 :
+
+    $ docker run -d -p 8069 -p 8070 quantumobject/docker-odoo:8 
+  
+or to make sure you are running odoo 9
+
+     $ docker run -d -p 8069 -p 8070 quantumobject/docker-odoo:9
  
 ## Accessing the Odoo applications:
 
