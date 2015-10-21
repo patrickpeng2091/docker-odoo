@@ -1,6 +1,6 @@
 #name of container: docker-odoo9
 #versison of container: 1.1.2
-FROM angelrr7702/docker-baseimage
+FROM quantumobject/docker-baseimage:15.10
 MAINTAINER Angel Rodriguez  "angel@quantumobject.com"
 
 #add repository and update the container
