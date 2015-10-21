@@ -1,4 +1,4 @@
-#name of container: docker-odoo9
+#name of container: docker-odoo
 #versison of container: 1.1.2
 FROM quantumobject/docker-baseimage:15.10
 MAINTAINER Angel Rodriguez  "angel@quantumobject.com"
