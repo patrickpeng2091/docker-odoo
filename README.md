@@ -51,8 +51,11 @@ About Odoo [www.odoo.com][1]
 
 To help improve this container [quantumobject/docker-odoo][5]
 
+For additional info about us and our projects check our site [www.quantumobject.com][6]
+
 [1]:https://www.odoo.com
 [2]:https://www.docker.com
 [3]:https://www.odoo.com/slides/slide/keynote-odoo-9-new-features-201
 [4]:http://docs.docker.com
 [5]:https://github.com/QuantumObject/docker-odoo9
+[6]:http://www.quantumobject.com
