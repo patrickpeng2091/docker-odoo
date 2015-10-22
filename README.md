@@ -57,5 +57,5 @@ For additional info about us and our projects check our site [www.quantumobject.
 [2]:https://www.docker.com
 [3]:https://www.odoo.com/slides/slide/keynote-odoo-9-new-features-201
 [4]:http://docs.docker.com
-[5]:https://github.com/QuantumObject/docker-odoo9
+[5]:https://github.com/QuantumObject/docker-odoo
 [6]:http://www.quantumobject.com
